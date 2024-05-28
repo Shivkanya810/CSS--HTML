@@ -14,4 +14,3 @@ Welcome to the MSICS HTML Template, a creation by Soriful Chalehin. This templat
 1. [Getting Started](#getting-started)
 2. [Features](#features)
 3. [Live Demo](https://soriful-chalehin.github.io/MSICS-Template)
-4. [Contact the Developer](#contact-the-developer)
